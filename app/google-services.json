@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "748766984715",
+    "firebase_url": "https://mygimbal-10a7f.firebaseio.com",
+    "project_id": "mygimbal-10a7f",
+    "storage_bucket": "mygimbal-10a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748766984715:android:b0b1763f9fc048d9",
+        "android_client_info": {
+          "package_name": "com.germanco.mygimbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748766984715-fe2j61kd228m6b9th14nsl9kn2u8lnvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu3td4PNqmPcrb1bf2Sgpn-EO8XOybu4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
